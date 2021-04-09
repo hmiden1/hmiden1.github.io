@@ -15,9 +15,13 @@ L.geoJSON(data, {
   var alertColor = 'orange';
   if (feature.properties.severity === 'Severe') alertColor = 'red';
   return { color: alertColor };
-  if (feature.properties.severity === 'Extreme') alertColor = 'purple';
+  style: function(feature){
+  var alertColor = 'orange';
+   if (feature.properties.severity === 'Extreme') alertColor = 'purple';
   return { color: alertColor };
-  if (feature.properties.severity === 'Minor') alertColor = 'yellow';
+  style: function(feature){
+  var alertColor = 'orange';
+   if (feature.properties.severity === 'Minor') alertColor = 'yellow';
   return { color: alertColor };
 },
   onEachFeature: function(feature, layer) {
