@@ -5,5 +5,5 @@ This map shows real-time weather radar and weather alerts sourced from the Natio
 <https://hmiden1.github.io/weather/>
 
 ## Heidy's Photo Map Tour
-This map tour will give you the best places to hangout in BR whether the weather is sunny and calls for a picnic, or its rainy and all you need is a coffee in your hand. 
+This map tour will give you the best places to get coffee in Baton Rouge! Whether you're looking for a classic lavender latte in a moody shop or a bright iced coffee in a modern patio, this map has four different coffee shops on showcase. 
 <https://hmiden1.github.io/photomap>
